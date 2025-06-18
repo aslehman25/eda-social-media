@@ -1,2 +1,2 @@
 # eda-social-media
-Independent project using Kaggle dataset on social media addiction
+This is an independent project I completed after finishing my IMB Data Analyst Professional Certificate. I used a Kaggle dataset on social media addictions among students around the world.
